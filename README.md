@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cammcinnes
-- 👀 I’m a 3rd year Computer science and Microbiology & Immunology student
+- 👀 I’m a 3rd year Computer Science and Microbiology & Immunology student
 - 📫 Reach me at camtmcinnes@gmail.com
 
 <!---
