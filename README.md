@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cammcinnes
-- 👀 I’m a 3rd year Computer Science Student
+- 👀 I’m a 3rd year Computer Science and Physics Student
 - 📫 Reach me at camtmcinnes@gmail.com
 - ⭐️ Connect with me at https://www.linkedin.com/in/cammcinnes/
 <!---
