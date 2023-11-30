@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cammcinnes
 - 👀 I’m a 3rd year Computer Science and Physics Student
-- 📫 Reach me at camtmcinnes@gmail.com
+- 📫 Reach me at camtm@student.ubc.ca
 - ⭐️ Connect with me at https://www.linkedin.com/in/cammcinnes/
 <!---
 cammcinnes/cammcinnes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
