@@ -1,6 +1,6 @@
 # 🚴🏼 Cameron McInnes
 
-**3rd year Computer Science and Physics Student**
+**UBC 3rd year Computer Science and Physics Student**
 
 I'm a physics and computer science student at University of British Columbia. I'm very passionate about integrating microcontrollers into projects and a hobbist game developer. All resources used to build projects are included in individual readme's.
 
